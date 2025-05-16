@@ -1,3 +1,7 @@
+![Uploading image.png…]()
+
+
+
 # 🧠 CatBoost vs Random Forest: A Supervised Learning Battle Inspired by Jujutsu Kaisen
 
 This project presents a comparative study between two powerful supervised learning algorithms—CatBoostClassifier and RandomForestClassifier—through a narrative lens inspired by the anime *Jujutsu Kaisen*. Just as Gojo Satoru and Ryomen Sukuna fight for dominance, this project pits CatBoost and Random Forest against each other in a series of machine learning experiments.
